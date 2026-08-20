@@ -1,2 +1,2 @@
 # data-analyst
-Repository for all data analyst projects &amp; tools
+Repository for all platform-accounting key reports &amp; tools
